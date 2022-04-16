@@ -1,0 +1,9 @@
+2022-04-17 01:24:03,608 logging in using static token
+2022-04-17 01:24:04,278 Shard ID None has sent the IDENTIFY payload.
+2022-04-17 01:24:04,585 Shard ID None has connected to Gateway: ["gateway-prd-main-z0zw",{"micros":83396,"calls":["discord-sessions-blue-prd-2-77",{"micros":82388,"calls":["start_session",{"micros":51413,"calls":["discord-api-6db46b8d45-rtnh8",{"micros":46554,"calls":["get_user",{"micros":7676},"add_authorized_ip",{"micros":2540},"get_guilds",{"micros":9925},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":23668,"calls":[]}]}]}] (Session ID: 72ec5be272c6573825c3e041ac763bc2).
+2022-04-17 01:24:12,951 Akinino a dit !HELP
+2022-04-17 01:24:15,350 Akinino a dit !ping
+2022-04-17 01:25:40,983 Cleaning up tasks.
+2022-04-17 01:25:40,983 Cleaning up after 1 tasks.
+2022-04-17 01:25:40,984 All tasks finished cancelling.
+2022-04-17 01:25:40,985 Closing the event loop.
